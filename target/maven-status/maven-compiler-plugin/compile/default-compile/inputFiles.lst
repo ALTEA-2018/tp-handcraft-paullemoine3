@@ -1,1 +1,5 @@
-/Users/paullemoine/Documents/Cours/Trimestre 2/Altea/TP2/src/main/java/FirstServlet.java
+/Users/paullemoine/Documents/Cours/Trimestre 2/Altea/TP2/src/main/java/servlet/FirstServlet.java
+/Users/paullemoine/Documents/Cours/Trimestre 2/Altea/TP2/src/main/java/annotation/RequestMapping.java
+/Users/paullemoine/Documents/Cours/Trimestre 2/Altea/TP2/src/main/java/annotation/Controller.java
+/Users/paullemoine/Documents/Cours/Trimestre 2/Altea/TP2/src/main/java/servlet/DispatcherServlet.java
+/Users/paullemoine/Documents/Cours/Trimestre 2/Altea/TP2/src/main/java/controller/HelloController.java

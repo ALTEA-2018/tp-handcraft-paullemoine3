@@ -1,0 +1,6 @@
+servlet/DispatcherServletTest.class
+servlet/SomeOtherControllerClass.class
+servlet/SomeControllerClass.class
+servlet/SomeEmptyClass.class
+servlet/SomeControllerClassWithAVoidMethod.class
+servlet/SomeControllerClassWithAMethod.class
